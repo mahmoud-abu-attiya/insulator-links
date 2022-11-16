@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+   color: #fff;
+   min-height: 100vh;
+}
+main{
+   background-image: linear-gradient( to bottom , #4ba9c0, #071b8c);
+
+}
+
+.custom-shape-divider-bottom-1668640552 {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   overflow: hidden;
+   line-height: 0;
+   transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1668640552 svg {
+   position: relative;
+   display: block;
+   width: calc(300% + 1.3px);
+   height: 193px;
+}
+
+.custom-shape-divider-bottom-1668640552 .shape-fill {
+   fill: #FFFFFF;
+}
