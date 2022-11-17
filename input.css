@@ -9,3 +9,6 @@ body{
 main{
    background-image: linear-gradient( to bottom , #4ba9c0, #071b8c);
 }
+nav{
+   background-color: #0057a5;
+}
